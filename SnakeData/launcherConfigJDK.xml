@@ -2,8 +2,8 @@
 <launch4jConfig>
   <dontWrapJar>false</dontWrapJar>
   <headerType>gui</headerType>
-  <jar>D:\Users\Andrew\Desktop\Snake\SnakeData\Snake.jar</jar>
-  <outfile>D:\Users\Andrew\Desktop\Snake\Snake.exe</outfile>
+  <jar>D:\Users\Andrew\Documents\Games\Snake\SnakeData\Snake.jar</jar>
+  <outfile>D:\Users\Andrew\Documents\Games\Snake\Snake.exe</outfile>
   <errTitle></errTitle>
   <cmdLine></cmdLine>
   <chdir>.</chdir>
@@ -13,7 +13,7 @@
   <stayAlive>false</stayAlive>
   <restartOnCrash>false</restartOnCrash>
   <manifest></manifest>
-  <icon></icon>
+  <icon>D:\Users\Andrew\Documents\Games\Snake\SnakeData\icon.ico</icon>
   <jre>
     <path>SnakeData\jdk\</path>
     <bundledJre64Bit>false</bundledJre64Bit>
@@ -23,4 +23,18 @@
     <jdkPreference>preferJre</jdkPreference>
     <runtimeBits>64/32</runtimeBits>
   </jre>
+  <versionInfo>
+    <fileVersion>1.1.1.1</fileVersion>
+    <txtFileVersion>1.1.1.1</txtFileVersion>
+    <fileDescription>Basic Snake Game</fileDescription>
+    <copyright>www.AStruthersGames.com</copyright>
+    <productVersion>1.1.1.1</productVersion>
+    <txtProductVersion>1.1.1.1</txtProductVersion>
+    <productName>Basic Snake game</productName>
+    <companyName>AStruthersGames</companyName>
+    <internalName>Snake</internalName>
+    <originalFilename>Snake.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>ENGLISH_US</language>
+  </versionInfo>
 </launch4jConfig>

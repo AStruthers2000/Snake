@@ -1,14 +1,14 @@
 
 
 Version:	3.12
-CmdLine:	D:\Users\Andrew\Desktop\Snake\Snake.exe --l4j-debug
+CmdLine:	D:\Users\Andrew\Documents\Games\Snake\Snake.exe --l4j-debug
 WOW64:		yes
-Working dir:	D:\Users\Andrew\Desktop\Snake\.
+Working dir:	D:\Users\Andrew\Documents\Games\Snake\.
 Java min ver:	
 Java max ver:	
 Bundled JRE:	SnakeData\jdk\
-Check launcher:	D:\Users\Andrew\Desktop\Snake\SnakeData\jdk\bin\javaw.exe (OK)
-Launcher:	D:\Users\Andrew\Desktop\Snake\SnakeData\jdk\bin\javaw.exe
-Launcher args:	-jar "D:\Users\Andrew\Desktop\Snake\Snake.exe"
-Args length:	46/32768 chars
+Check launcher:	D:\Users\Andrew\Documents\Games\Snake\SnakeData\jdk\bin\javaw.exe (OK)
+Launcher:	D:\Users\Andrew\Documents\Games\Snake\SnakeData\jdk\bin\javaw.exe
+Launcher args:	-jar "D:\Users\Andrew\Documents\Games\Snake\Snake.exe"
+Args length:	54/32768 chars
 Exit code:	0
